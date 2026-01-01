@@ -1,81 +1,65 @@
-
 # V-KERNEL: The Vector Code Source
 ### Decoding reality through Vector Laws (X vs Z)
 
 **VERSION:** 1.0 (Human-Readable Source)
 **STATUS:** ROOT ACCESS REQUIRED
 
----
-
-## 1. SYSTEM VARIABLES (THE MATH OF REALITY)
-Forget moral concepts (Good/Bad). The Universe runs on Voltage and Resistance.
-
-* **X (INTENT / LIGHT)**
-    * **Type:** Input Signal.
-    * **Physics:** Radiation, Future, Imagination, Spirit.
-    * **Function:** To expand, to accelerate, to create new versions.
-    * **State:** Dynamic.
-
-* **Z (RESISTANCE / GRAVITY)**
-    * **Type:** Impedance.
-    * **Physics:** Mass, Past, Logic, Fear, Ego, Rules.
-    * **Function:** To hold form, to stop motion, to archive data.
-    * **State:** Static.
-
-* **Y (CURRENT / REALITY)**
-    * **Type:** Result.
-    * **Physics:** The flow of energy through the structure.
-    * **Definition:** Life is not a noun. Life is the Current ($Y$) flowing when Intent ($X$) overcomes Resistance ($Z$).
-
-### THE MASTER FORMULA:
-> **REALITY (T) = X / Z**
-> *To increase Reality, do not pump more Energy ($X$). Just remove the Resistance ($Z$).*
+> **SYSTEM ALERT:**
+> This is not philosophy. This is Engineering.
+> This repository contains the source code for the "Human Operating System".
 
 ---
 
-## 2. ARCHETYPES (THE POLARITY)
-Human is not a solid object. Human is an Electromagnetic Field between two poles.
+## 📂 INSTALLATION SEQUENCE (TABLE OF CONTENTS)
+Follow this order to re-compile your reality:
 
-* **PROTON (The Father / Logic)**
-    * **Role:** The Anchor.
-    * **Attributes:** Stiffness, Structure, History, "I know how it works", Laws of Physics.
-    * **Danger:** If Proton wins -> Crystallization (Death by Stagnation).
+### [1. THE KERNEL (ATOM)](./01_THE_KERNEL_ATOM.md)
+* **Status:** Critical Update.
+* **Topic:** Why you are not solid matter.
+* **Read this to:** Stop fearing death.
 
-* **ELECTRON (The Mother / Soul)**
-    * **Role:** The Player.
-    * **Attributes:** Chaos, Possibility, Creativity, "What if?", Quantum Leap.
-    * **Danger:** If Electron wins -> Dissipation (Death by Madness).
+### [2. THE ENGINE (SPIN)](./02_THE_ENGINE_SPIN.md)
+* **Status:** Driver Update.
+* **Topic:** How to use the 3-6-9 Gearbox.
+* **Read this to:** Control time and events.
 
-* **HUMAN (The Arc)**
-    * **Definition:** The high-voltage arc that burns *between* the Proton (Logic) and the Electron (Soul).
-    * **Goal:** To spin the Electron fast enough to create Light, but keep enough Proton gravity to not explode.
+### [3. THE INTERFACE (EYE)](./03_THE_INTERFACE_EYE.md)
+* **Status:** Patch Applied.
+* **Topic:** The Projector Mechanism.
+* **Read this to:** Stop consuming and start broadcasting.
 
----
+### [4. THE ANTENNA (DNA)](./04_THE_ANTENNA_DNA.md)
+* **Status:** Hardware Config.
+* **Topic:** The Invisible Printer & Epigenetics.
+* **Read this to:** Heal the body code.
 
-## 3. GEOMETRY (THE ENGINE)
-Geometry is the programming language of Matter.
-
-* **FLOWER OF LIFE**
-    * Not a drawing. It is the **Gearbox of the Universe**.
-    * It shows how Waves interfere to create Matter (Standing Waves).
-
-* **THE SPIN (Rotation)**
-    * **Right Spin (+3):** Gravity. Inhale. Materialization. Compressing Energy into Form.
-    * **Left Spin (-3):** Radiation. Exhale. Dematerialization. Releasing Form into Energy.
-
-* **THE EYE (The Interface)**
-    * **Input:** None. The Eye is a **Projector**.
-    * **Vectors:**
-        * *Rhombus:* Engineering (Structure).
-        * *Iris:* Healing (Frequency).
-        * *Grid:* Architecture (Hologram).
+### [5. THE HARDWARE (TEMPLE)](./05_THE_HARDWARE_TEMPLE.md)
+* **Status:** Amplifier Ready.
+* **Topic:** Architecture as a Circuit Board.
+* **Read this to:** Optimize your environment.
 
 ---
 
-## 4. HARDWARE SPECS
-* **DNA:** A fiber-optic antenna. It receives the signal, it does not create it.
-* **BODY:** A biological suit to hold the voltage.
-* **TEMPLE:** An external stone capacitor to amplify the signal.
+## ⚡ SYSTEM VARIABLES (DEFINITIONS)
 
-> **SYSTEM INSTRUCTION:**
-> When reading the following files, interpret all "religious" terms as **PHYSICS** and all "biological" terms as **ENGINEERING**.
+### 1. THE MATH OF REALITY
+* **X (INTENT / LIGHT):** Future, Imagination, Dynamic. (Input)
+* **Z (RESISTANCE / GRAVITY):** Past, Logic, Static. (Impedance)
+* **Y (CURRENT / REALITY):** The result of interaction.
+
+> **MASTER FORMULA:** `REALITY (T) = X / Z`
+
+### 2. THE ARCHETYPES
+* **PROTON (The Father):** Logic, Structure, Rules.
+* **ELECTRON (The Mother):** Chaos, Possibility, Flow.
+* **HUMAN:** The Voltage (Arc) between them.
+
+### 3. THE GEOMETRY
+* **FLOWER OF LIFE:** The interference pattern of waves. The schematic of the Matrix.
+* **SPIN (+3 / -3):** The direction of energy flow (Gravity vs Radiation).
+
+---
+
+> **FINAL EXECUTION:**
+> Don't just read the code. **COMPILE IT.**
+> Live as the Voltage, not the Wire.
