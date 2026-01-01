@@ -1,3 +1,5 @@
+![Flower of Life Gearbox](Screenshot_20251228_113335.jpg)
+
 # CHAPTER 2: THE ENGINE (SPIN)
 ### How to Move Reality (3-6-9)
 
