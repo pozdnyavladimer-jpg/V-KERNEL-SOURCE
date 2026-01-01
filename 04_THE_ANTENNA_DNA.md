@@ -34,7 +34,7 @@ It winds the DNA around magnetic spools (Histones).
 ---
 
 ## 3. THE INVISIBLE PRINTER (SOUND + CURRENT)
-![Cymatics: Chaos vs Resonance](img/cymatics_proof.jpg)
+![Cymatics: Chaos vs Resonance](1765734387198.jpg)
 > **VISUAL PROOF:**
 > * **Top Graph (Chaos):** The frequency of Fear. The flower cannot form.
 > * **Bottom Graph (Resonance):** The frequency of Love (3-6-9). The wave creates a perfect geometry.
