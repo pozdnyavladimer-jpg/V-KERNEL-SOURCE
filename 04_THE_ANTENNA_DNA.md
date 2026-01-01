@@ -34,6 +34,12 @@ It winds the DNA around magnetic spools (Histones).
 ---
 
 ## 3. THE INVISIBLE PRINTER (SOUND + CURRENT)
+![Cymatics: Chaos vs Resonance](img/cymatics_proof.jpg)
+> **VISUAL PROOF:**
+> * **Top Graph (Chaos):** The frequency of Fear. The flower cannot form.
+> * **Bottom Graph (Resonance):** The frequency of Love (3-6-9). The wave creates a perfect geometry.
+> * **Engineering Fact:** The Flower of Life is just this wave seen from above.
+> * 
 How does a baby grow? It is not random.
 1.  **SOUND (Cymatics):** The vibration creates the "Ghost Grid" (The invisible walls).
 2.  **CURRENT (Electricity):** The DNA (Negative Charge) is pulled to the Histones (Positive Charge).
