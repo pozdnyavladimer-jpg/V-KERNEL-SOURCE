@@ -31,30 +31,15 @@ class VKernel:
         else:
             return "ELECTRIC (Matter)"
 
-# --- SIMULATION ---
-# Let's run the V-Code
-
-human = VKernel("Architect")
-
-# Scenario 1: High Fear (High Z)
-# Intent = 100, Fear = 80
-result_1 = human.calculate_reality(intent_x=100, resistance_z=80)
-print(f"Scenario 1 (Fear): Reality Level = {result_1} (Low Signal)")
-
-# Scenario 2: High Spirit (Low Z)
-# Intent = 100, Fear = 5
-result_2 = human.calculate_reality(intent_x=100, resistance_z=5)
-print(f"Scenario 2 (Flow): Reality Level = {result_2} (Superconductivity)")
-
-# Tesla Check
-print(f"Number 3 is: {human.scan_spin(3)}")
-print(f"Number 9 is: {human.scan_spin(9)}")
-print(f"Number 4 is: {human.scan_spin(4)}")
     def get_frequency_color(self, reality_level):
         """
         Translates Reality Level (Y) into Visible Spectrum (Chakras/Physics).
         Based on the frequency of the wave created by Intent / Resistance.
         """
+        # Перевірка на помилку (якщо прийшов рядок, а не число)
+        if isinstance(reality_level, str):
+            return "WHITE (Singularity/Blind Spot)"
+
         # Low Reality (High Resistance) -> Low Frequency (Red/Survival)
         if reality_level < 1.0:
             return "RED (Infrastructure/Fear/Root)"
@@ -74,11 +59,25 @@ print(f"Number 4 is: {human.scan_spin(4)}")
         else:
             return "BLACK (Entropy/Shadow)"
 
-# --- ТЕСТ НОВОГО МОДУЛЯ ---
-# Додай це в кінці свого файлу:
+# --- SIMULATION (RUN THE CODE) ---
 
-print(f"Scenario 1 Color: {human.get_frequency_color(result_1)}") 
-# Виведе: GREEN (бо 100/80 = 1.25)
+human = VKernel("Architect")
 
-print(f"Scenario 2 Color: {human.get_frequency_color(result_2)}")
-# Виведе: BLUE (бо 100/5 = 20.0)
+# Scenario 1: High Fear (High Z)
+# Intent = 100, Fear = 80
+result_1 = human.calculate_reality(intent_x=100, resistance_z=80)
+print(f"Scenario 1 (Fear): Reality Level = {result_1} (Low Signal)")
+print(f"Color Spectrum: {human.get_frequency_color(result_1)}")
+print("-" * 30)
+
+# Scenario 2: High Spirit (Low Z)
+# Intent = 100, Fear = 5
+result_2 = human.calculate_reality(intent_x=100, resistance_z=5)
+print(f"Scenario 2 (Flow): Reality Level = {result_2} (Superconductivity)")
+print(f"Color Spectrum: {human.get_frequency_color(result_2)}")
+print("-" * 30)
+
+# Tesla Check
+print(f"Number 3 is: {human.scan_spin(3)}")
+print(f"Number 9 is: {human.scan_spin(9)}")
+print(f"Number 4 is: {human.scan_spin(4)}")
